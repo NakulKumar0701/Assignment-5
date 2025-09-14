@@ -10,4 +10,7 @@ name1 = input("Enter the student's name to check: ")
 if name1 in x :
     print(f"{name1}'s marks: ", x[name1])
 else:
+
     print("Student not found.")    
+
+
