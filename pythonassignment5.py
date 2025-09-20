@@ -5,5 +5,3 @@ print(f"Exatracted first five elements: {a}")
 b = a[::-1]
 
 print(f"Reversed extracted elements: {b}")
-
-
